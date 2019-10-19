@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>src/pacmanMap.png</file>
+        <file>src/pacmanMap2.gif</file>
+        <file>src/pacman.png</file>
+        <file>src/pacman2.png</file>
+        <file>src/ghost1.png</file>
+        <file>src/ghost2.png</file>
+        <file>src/ghost3.png</file>
+        <file>src/ghost4.png</file>
+    </qresource>
+    <qresource prefix="/file">
+        <file>src/isPoint.txt</file>
+        <file>src/emptyPoint.txt</file>
+    </qresource>
+    <qresource prefix="/img2">
+        <file>src/Level.png</file>
+        <file>src/blinky_down.png</file>
+        <file>src/blinky_left.png</file>
+        <file>src/blinky_right.png</file>
+        <file>src/blinky_up.png</file>
+        <file>src/clyde_down.png</file>
+        <file>src/clyde_left.png</file>
+        <file>src/clyde_right.png</file>
+        <file>src/clyde_up.png</file>
+        <file>src/dyingGhost_1.png</file>
+        <file>src/dyingGhost_2.png</file>
+        <file>src/dyingPacman_1.png</file>
+        <file>src/dyingPacman_2.png</file>
+        <file>src/dyingPacman_3.png</file>
+        <file>src/frightenedGhost.png</file>
+        <file>src/inky_down.png</file>
+        <file>src/inky_left.png</file>
+        <file>src/inky_right.png</file>
+        <file>src/inky_up.png</file>
+        <file>src/pacman_fianl.png</file>
+        <file>src/pacman_full.png</file>
+        <file>src/pacman_half.png</file>
+        <file>src/pinky_down.png</file>
+        <file>src/pinky_left.png</file>
+        <file>src/pinky_right.png</file>
+        <file>src/pinky_up.png</file>
+    </qresource>
+</RCC>
